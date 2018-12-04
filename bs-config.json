@@ -1,0 +1,7 @@
+{
+    "port": 3000,
+    "server": {
+      "baseDir": "./dist/browser"
+    },
+    "browser": ["chrome"]
+  }
