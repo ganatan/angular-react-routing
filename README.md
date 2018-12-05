@@ -1,5 +1,5 @@
 # angular-starter-routing
-- Date : 04/12/2018 15:47
+- Date : 05/12/2018 16:15
 - Author : chendra
 
 # Prerequisites
@@ -20,18 +20,13 @@
 
 # AOT Compilation 
 - npm run build
-- http-server -p 8080 -c-1 dist/browser
+- http-server -p 8080 -c-1 dist/angular-starter 
 - http://localhost:8080/
 
 # Tests
 - npm run lint
 - npm run test
 - npm run e2e
-
-# SSR Compilation 
-- npm run build:ssr
-- npm run serve:ssr
-- http://localhost:4001/
 
 # Tutorials
 - https://www.ganatan.com/docs

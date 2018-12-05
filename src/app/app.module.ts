@@ -17,8 +17,8 @@ import { AppRoutingModule } from './app-routing.module';
     NotFoundComponent
   ],
   imports: [
-    BrowserModule.withServerTransition({ appId: 'angular-starter' }),
-    AppRoutingModule,
+    BrowserModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
