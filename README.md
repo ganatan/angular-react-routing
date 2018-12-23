@@ -1,11 +1,11 @@
 # angular-starter-routing
-- Date : 10/12/2018 13:50
-- Author : chendra
+- Date : 23/12/2018 08:20
+- Author : danny ganatan
 
 # Prerequisites
-- Angular version 7.1.2
-- Angular-cli version 7.1.2
-- Visual studio code version 1.29.1
+- Angular version 7.1.4
+- Angular-cli version 7.1.4
+- Visual studio code version 1.30
 - Typescript version 3.1.6
 - node.js version 10.14.1 LTS (Long Term Support)
 - npm (node package manager) version 6.4.1
@@ -29,4 +29,5 @@
 - npm run e2e
 
 # Tutorials
+- https://www.ganatan.com/tutorials/angular-routing
 - https://www.ganatan.com/docs
