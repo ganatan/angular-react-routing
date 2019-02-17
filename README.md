@@ -1,14 +1,14 @@
 # angular-starter-routing
-- Date : 11/01/2019 09:40
+- Date : 17/02/2019 08:47
 - Author : danny ganatan
 
 # Prerequisites
-- Angular version 7.2.0
-- Angular-cli version 7.2.1
-- Visual studio code version 1.30.1
-- Typescript version 3.1.6
-- node.js version 10.15.0 LTS (Long Term Support)
-- npm (node package manager) version 6.4.1
+- Angular version 7.2.5
+- Angular-cli version 7.3.1
+- Visual studio code version 1.31.1
+- Typescript version 3.2.4
+- node.js version 10.15.1 LTS (Long Term Support)
+- npm (node package manager) version 6.5.0
 
 # Installation
 - npm install (installing dependencies)
@@ -18,7 +18,7 @@
 - npm run start
 - http://localhost:4200
 
-# AOT Compilation 
+# Compilation 
 - npm run build
 - http-server -p 8080 -c-1 dist/angular-starter 
 - http://localhost:8080/
@@ -29,5 +29,7 @@
 - npm run e2e
 
 # Tutorials
-- https://www.ganatan.com/tutorials/angular-routing
+- https://www.ganatan.com/tutorials/routing-et-angular
+
 - https://www.ganatan.com/docs
+
