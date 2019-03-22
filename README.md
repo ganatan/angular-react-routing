@@ -19,7 +19,7 @@
 
 ```bash
 # clone the repo
-git clone https://github.com/ganatan/angular-starter.git
+git clone https://github.com/ganatan/angular-starter-routing.git
 
 # change directory
 cd angular-starter
