@@ -67,6 +67,7 @@ What you need to run this app:
 ### author
 * Updated : 22/03/2019
 * Author  : danny ganatan
+* Website : https://www.ganatan.com/guide
 
 
 ### Tutorials
