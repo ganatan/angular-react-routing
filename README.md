@@ -22,7 +22,7 @@
 git clone https://github.com/ganatan/angular-starter-routing.git
 
 # change directory
-cd angular-starter
+cd angular-starter-routing
 
 # install the repo with npm
 npm install
