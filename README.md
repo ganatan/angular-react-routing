@@ -71,5 +71,5 @@ What you need to run this app:
 
 
 ### Tutorials
-* https://www.ganatan.com/tutorials/routing-avec-angular
+* https://www.ganatan.com/tutorials/routing-avec-angular-7
 
