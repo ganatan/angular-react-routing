@@ -1,7 +1,7 @@
 # Angular 7 Starter - Routing
 
 
-> An Angular starter kit featuring [Angular 7.2.13](https://angular.io), [Angular-cli 7.3.8](https://cli.angular.io/)
+> An Angular starter kit featuring [Angular 7.2.14](https://angular.io), [Angular-cli 7.3.8](https://cli.angular.io/)
 
 > it's part of a repo series designed to create a Progressive WebApp with Angular
 
@@ -38,7 +38,7 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 
 ### Prerequisites
 What you need to run this app:
-* Angular version 7.2.13
+* Angular version 7.2.14
 * Angular-cli version 7.3.8
 * Visual studio code version 1.33.1
 * Typescript version 3.2.4
@@ -65,7 +65,7 @@ What you need to run this app:
 * `npm run e2e`
 
 ### author
-* Updated : 19/04/2019
+* Updated : 04/05/2019
 * Author  : danny ganatan
 * Website : https://www.ganatan.com/angular
 
