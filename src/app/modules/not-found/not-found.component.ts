@@ -11,7 +11,6 @@ export class NotFoundComponent implements OnInit {
     console.log('Constructor:NotFoundComponent');
   }
 
-
   ngOnInit() {
   }
 
