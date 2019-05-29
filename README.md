@@ -1,4 +1,4 @@
-# Angular 7 Starter - Routing
+# Angular 8 Starter - Routing
 
 
 > An Angular starter kit featuring [Angular 8.0.0](https://angular.io), [Angular-cli 8.0.0](https://cli.angular.io/)
