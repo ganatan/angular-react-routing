@@ -1,7 +1,7 @@
 # Angular 8 Starter - Routing
 
 
-> An Angular starter kit featuring [Angular 8.0.0](https://angular.io), [Angular-cli 8.0.0](https://cli.angular.io/)
+> An Angular starter kit featuring [Angular 8.0.0](https://angular.io), [Angular-cli 8.0.2](https://cli.angular.io/)
 
 > it's part of a repo series designed to create a Progressive WebApp with Angular
 
@@ -39,8 +39,8 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 ### Prerequisites
 What you need to run this app:
 * Angular version 8.0.0
-* Angular-cli version 8.0.0
-* Visual studio code version 1.34
+* Angular-cli version 8.0.2
+* Visual studio code version 1.35
 * Typescript version 3.4.5
 * node.js version 10.16.0 LTS (Long Term Support)
 * npm (node package manager) version 6.9.0
@@ -65,11 +65,11 @@ What you need to run this app:
 * `npm run e2e`
 
 ### Author
-* Updated : 29/05/2019
+* Updated : 07/06/2019
 * Author  : danny ganatan
 
 ### Documentation
-* Guide    : https://www.ganatan.com/angular
+* Tutorials    : https://www.ganatan.com/angular
 
-* Tutorial : https://www.ganatan.com/tutorials/routing-avec-angular
-
+* English Tutorial : https://www.ganatan.com/tutorials/routing-with-angular
+* French Tutorial  : https://www.ganatan.com/tutorials/routing-avec-angular
