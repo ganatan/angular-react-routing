@@ -1,6 +1,6 @@
 # Angular 8 Example Routing
 
-> An Angular starter kit featuring [Angular 8.2.8](https://angular.io), [Angular CLI 8.3.6](https://cli.angular.io/)
+> An Angular starter kit featuring [Angular 8.2.9](https://angular.io), [Angular CLI 8.3.7](https://cli.angular.io/)
 
 > it's part of a repo series designed to create a Progressive Web App with Angular
 
@@ -40,8 +40,8 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 
 ### Prerequisites
 What you need to run this app:
-* Angular version 8.2.8
-* Angular CLI version 8.3.6
+* Angular version 8.2.9
+* Angular CLI version 8.3.7
 * Typescript version 3.5.3
 * node.js version 10.16.3 LTS (Long Term Support)
 * npm (node package manager) version 6.9.0
@@ -71,10 +71,10 @@ What you need to run this app:
 
 ### Documentation
 
-guidelines in English
--  Installation - https://www.ganatan.com/tutorials/routing-with-angular
--  Tutorials Step by Step - https://www.ganatan.com/tutorials/en
+English Tutorials
+- Installation - https://www.ganatan.com/tutorials/routing-with-angular
+- Tutorials Step by Step - https://www.ganatan.com/tutorials/en
 
-guidelines in French
+Tutoriels en français
 - Installation - https://www.ganatan.com/tutorials/routing-avec-angular
 - Tutoriels Etape par étape - https://www.ganatan.com/tutorials
