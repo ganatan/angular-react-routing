@@ -1,17 +1,25 @@
-<header>
-  <section>
-    <h1>{{ title }}</h1>
-    <p> (Angular version 8.2.14) </p>
-  </section>
-  <nav>
-    <ul>
-      <li><a routerLink="/">Home</a></li>
-      <li><a routerLink="/about">About</a></li>
-      <li><a routerLink="/contact">Contact</a></li>
-    </ul>
-  </nav>
-</header>
+<div class="app">
+  <header>
+    <section>
+      <h1>{{ title }}</h1>
+      <p> {{ version }}</p>
+    </section>
+    <nav>
+      <ul>
+        <li><a routerLink="/">Home</a></li>
+        <li><a routerLink="/about">About</a></li>
+        <li><a routerLink="/contact">Contact</a></li>
+        <li><a routerLink="/signin">Signin</a></li>
+      </ul>
+    </nav>
+  </header>
 
-<main>
-  <router-outlet></router-outlet>
-</main>
+  <main>
+    <router-outlet></router-outlet>
+  </main>
+
+  <footer>
+    <a href="https://www.ganatan.com/">&copy; 2019 - www.ganatan.com</a>
+  </footer>
+
+</div>
