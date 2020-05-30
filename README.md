@@ -74,5 +74,5 @@ Tutoriels en français
 * `npm run e2e`
 
 # Author
-* Updated : 29/05/2020
+* Updated : 30/05/2020
 * Author  : danny
