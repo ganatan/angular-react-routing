@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Angular Example Routing</h1>
   <p align="center">
-    Example with Angular 10.0.2 & Angular CLI 10.0.0
+    Example with Angular 10.0.3 & Angular CLI 10.0.2
     <br>
     <br>
     <a href="https://demo.ganatan.com/angular-example-routing">
@@ -74,5 +74,5 @@ Tutoriels en français
 * `npm run e2e`
 
 # Author
-* Updated : 01/07/2020
+* Updated : 13/07/2020
 * Author  : danny
