@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Angular Example Routing</h1>
   <p align="center">
-    Example with Angular 10.0.8 & Angular CLI 10.0.5
+    Example with Angular 10.0.14 & Angular CLI 10.0.8
     <br>
     <br>
     <a href="https://demo.ganatan.com/angular-example-routing">
@@ -68,11 +68,20 @@ Tutoriels en français
 ## Production 
 * `npm run build`
 
+### Use Chrome version 85 min !!!!
+
 ## Tests
 * `npm run lint`
 * `npm run test`
 * `npm run e2e`
 
+## Chrome Installation on Linux
+
+sudo sh -c 'echo "deb [arch=amd64] https://dl.google.com/linux/chrome/deb/ stable main" > /etc/apt/sources.list.d/google-chrome.list'
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+sudo apt-get update
+sudo apt-get install google-chrome-stable --yes
+
 # Author
-* Updated : 04/08/2020
+* Updated : 27/08/2020
 * Author  : danny
