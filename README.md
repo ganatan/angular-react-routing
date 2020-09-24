@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Angular Example Routing</h1>
   <p align="center">
-    Example with Angular 10.1.2 & Angular CLI 10.1.2
+    Example with Angular 10.1.3 & Angular CLI 10.1.3
     <br>
     <br>
     <a href="https://demo.ganatan.com/angular-example-routing">
@@ -82,7 +82,7 @@ sudo apt-get install google-chrome-stable --yes
 ```
 
 # Author
-* Updated : 22/09/2020
+* Updated : 24/09/2020
 * Author  : danny
 
 
