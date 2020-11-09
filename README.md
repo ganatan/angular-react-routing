@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Angular Example Routing</h1>
   <p align="center">
-    Example with Angular 10.2.1 & Angular CLI 10.2.0
+    Example with Angular 10.2.2 & Angular CLI 10.2.0
     <br>
     <br>
     <a href="https://demo.ganatan.com/angular-example-routing">
