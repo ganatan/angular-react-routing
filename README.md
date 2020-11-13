@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Angular Example Routing</h1>
   <p align="center">
-    Example with Angular 10.2.2 & Angular CLI 10.2.0
+    Example with Angular 11.0.0 & Angular CLI 11.0.0
     <br>
     <br>
     <a href="https://demo.ganatan.com/angular-example-routing">
@@ -33,7 +33,7 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 # Tutorial
 
 <p align="center">
-  <h3 align="center">Angular 10 Example Routing Tutorial</h3>
+  <h3 align="center">Angular 11 Example Routing Tutorial</h3>
 
   <p align="center">
     Step-by-step Tutorials
