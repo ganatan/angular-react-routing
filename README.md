@@ -68,7 +68,7 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 ## Production 
 * `npm run build`
 
-## Tests
+## Tests (Use Chrome Version 87 minimum)
 * `npm run lint`
 * `npm run test`
 * `npm run e2e`
