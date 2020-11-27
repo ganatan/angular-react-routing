@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Angular Example Routing</h1>
   <p align="center">
-    Example with Angular 11.0.1 & Angular CLI 11.0.2
+    Example with Angular 11.0.2 & Angular CLI 11.0.2
     <br>
     <br>
     <a href="https://demo.ganatan.com/angular-example-routing">
@@ -14,7 +14,8 @@
 # Quick start
 
 ```bash
-# select a repo
+# choose a repo
+
 # download the example or clone the repo from github
 git clone https://github.com/ganatan/angular-example-routing.git
 
