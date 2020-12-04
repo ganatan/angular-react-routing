@@ -2,11 +2,6 @@
   <h1 align="center">Angular Example Routing</h1>
   <p align="center">
     Example with Angular 11.0.3 & Angular CLI 11.0.3
-    <br>
-    <br>
-    <a href="https://demo.ganatan.com/angular-example-routing">
-      <img src="https://api.ganatan.com/articles/img/demo-angular-example-routing.png" alt="Demo example"/>
-    </a>
   </p>
 </p>
 
@@ -79,10 +74,10 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 
 ## Documentation
 
-* English Tutorials
+English Tutorials
 - Installation - https://www.ganatan.com/tutorials/routing-with-angular
 - step-by-step Tutorials - https://www.ganatan.com/tutorials/en
 
-* Tutoriels en français
+Tutoriels en français
 - Installation - https://www.ganatan.com/tutorials/routing-avec-angular
 - Tutoriels Etape par étape - https://www.ganatan.com/tutorials
