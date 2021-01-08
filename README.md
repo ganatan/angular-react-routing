@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Angular Example Routing</h1>
   <p align="center">
-    Example with Angular 11.0.4 & Angular CLI 11.0.4
+    Example with Angular 11.0.7 & Angular CLI 11.0.6
   </p>
 </p>
 
