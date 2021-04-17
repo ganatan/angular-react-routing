@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Angular Example Routing</h1>
   <p align="center">
-    Example with Angular 11.0.7 & Angular CLI 11.0.6
+    Example with Angular 11.2.10 & Angular CLI 11.2.9
   </p>
 </p>
 
@@ -12,16 +12,16 @@
 # choose a repo
 
 # download the example or clone the repo from github
-git clone https://github.com/ganatan/angular-example-routing.git
+git clone https://github.com/ganatan/angular-routing.git
 
 # download the example or clone the repo from gitlab
-git clone https://gitlab.com/ganatan/angular-example-routing.git
+git clone https://gitlab.com/ganatan/angular-routing.git
 
 # download the example or clone the repo from bitbucket
-git clone https://bitbucket.org/ganatan/angular-example-routing.git
+git clone https://bitbucket.org/ganatan/angular-routing.git
 
 # change directory
-cd angular-example-routing
+cd angular-routing
 
 # install the repo with npm
 npm install
