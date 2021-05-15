@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Angular Example Routing</h1>
   <p align="center">
-    Example with Angular 11.2.13 & Angular CLI 11.2.12
+    Example with Angular 12.0.0 & Angular CLI 12.0.0
   </p>
 </p>
 
@@ -36,7 +36,7 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 # Tutorial
 
 <p align="center">
-  <h3 align="center">Angular 11 Example Routing Tutorial</h3>
+  <h3 align="center">Angular 12 Example Routing Tutorial</h3>
 
   <p align="center">
     Step-by-step Tutorials
@@ -65,9 +65,7 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 * `npm run build`
 
 ## Tests
-* `npm run lint`
 * `npm run test`
-* `npm run e2e`
 
 # Author
 * Author  : danny
