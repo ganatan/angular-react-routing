@@ -55,7 +55,7 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 Here is a step by step Tutorial :  https://www.ganatan.com/tutorials/routing-with-angular
 
 <p align="center">
-  <a href="https://www.ganatan.com/tutorials/routing-with-with-angular">
+  <a href="https://www.ganatan.com/tutorials/routing-with-angular">
     <img src="https://api.ganatan.com/articles/img/tutorial-routing-avec-angular.png" alt="Demo example"/>
   </a>
 </p>
