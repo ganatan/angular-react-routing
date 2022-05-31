@@ -14,13 +14,20 @@ it's part of a repo series designed to create a **Web Application with Angular 1
 * Featuring [**Angular 13.3.8**](https://github.com/angular/angular/releases) & [**Angular CLI 13.3.5**](https://github.com/angular/angular-cli/releases/)
 
 
-* See the [**Live demo**](#live-demo), Test the repo with [**Quick start**](#quick-start) and for more information Read the step by step [**Tutorial**](#tutorial) or read the [**Getting started**](#getting-started)
+* See the [**Live demo**](#angular-live-demo), Test the repo with [**Quick start**](#angular-quick-start) and for more information Read the step by step [**Tutorial**](#angular-tutorial) or read the [**Getting started**](#angular-getting-started)
+
+
+it's part of a repo series designed to create a **Web Application with React 18**
+
+
+* Featuring [**React 18.1.0**](https://github.com/facebook/react/releases) & [**Create-react-app 5.0.1**](https://github.com/facebook/create-react-app/releases)
+
 
 </td>
 </tr>
 </table>
 
-# [Live Demo](#live-demo)
+# [Live Demo](#angular-live-demo)
 Here is a working live demo :  https://angular.ganatan.com
 
 <p align="center">
@@ -34,18 +41,19 @@ Here is a working live demo :  https://angular.ganatan.com
 
 
 
-# [Quick start](#quick-start)
+# [Quick start](#angular-quick-start)
 
 ```bash
 # choose a repo
 # download the example or clone the repo from github
-git clone https://github.com/ganatan/angular-routing.git
+git clone https://github.com/ganatan/angular-react-routing.git
 
 # download the example or clone the repo from gitlab
-git clone https://gitlab.com/ganatan/angular-routing.git
+git clone https://gitlab.com/ganatan/angular-react-routing.git
 
 # change directory
-cd angular-routing
+cd angular-react-routing
+cd angular
 
 # install the repo with npm
 npm install
@@ -57,7 +65,32 @@ npm start
 in your browser go to [http://localhost:4200](http://localhost:4200) 
 
 
-# [Tutorial](#quick-start)
+# [Quick start](#react-quick-start)
+
+```bash
+# choose a repo
+# download the example or clone the repo from github
+git clone https://github.com/ganatan/angular-react-routing.git
+
+# download the example or clone the repo from gitlab
+git clone https://gitlab.com/ganatan/angular-react-routing.git
+
+# change directory
+cd angular-react-routing
+cd react
+
+# install the repo with npm
+npm install
+
+# start the server
+npm start
+
+```
+in your browser go to [http://localhost:3000](http://localhost:3000) 
+
+
+
+# [Tutorial](#angular-quick-start)
 
 Here is a step by step Tutorial :  https://www.ganatan.com/tutorials/routing-with-angular
 
@@ -67,7 +100,7 @@ Here is a step by step Tutorial :  https://www.ganatan.com/tutorials/routing-wit
   </a>
 </p>
 
-# [Getting started](#getting-started)
+# [Getting started](#angular-getting-started)
 
 
 ## Installation
