@@ -1,4 +1,4 @@
-# Angular 13 Example Routing
+# Angular 13 & React 18 Examples Routing
 
 <table>
 <tr>
