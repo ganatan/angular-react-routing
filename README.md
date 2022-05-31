@@ -27,7 +27,7 @@ it's part of a repo series designed to create a **Web Application with React 18*
 </tr>
 </table>
 
-# [Live Demo](#angular-live-demo)
+# [Angular Live Demo](#angular-live-demo)
 Here is a working live demo :  https://angular.ganatan.com
 
 <p align="center">
@@ -41,7 +41,7 @@ Here is a working live demo :  https://angular.ganatan.com
 
 
 
-# [Quick start](#angular-quick-start)
+# [Angular Quick start](#angular-quick-start)
 
 ```bash
 # choose a repo
@@ -65,7 +65,7 @@ npm start
 in your browser go to [http://localhost:4200](http://localhost:4200) 
 
 
-# [Quick start](#react-quick-start)
+# [React Quick start](#react-quick-start)
 
 ```bash
 # choose a repo
@@ -90,7 +90,7 @@ in your browser go to [http://localhost:3000](http://localhost:3000)
 
 
 
-# [Tutorial](#angular-quick-start)
+# [Angular Tutorial](#angular-quick-start)
 
 Here is a step by step Tutorial :  https://www.ganatan.com/tutorials/routing-with-angular
 
@@ -100,7 +100,7 @@ Here is a step by step Tutorial :  https://www.ganatan.com/tutorials/routing-wit
   </a>
 </p>
 
-# [Getting started](#angular-getting-started)
+# [Angular Getting started](#angular-getting-started)
 
 
 ## Installation
@@ -110,6 +110,25 @@ Here is a step by step Tutorial :  https://www.ganatan.com/tutorials/routing-wit
 ## Development
 * `npm run start`
 * in your browser go to [http://localhost:4200](http://localhost:4200) 
+
+## Production 
+* `npm run build`
+
+## Tests
+* `npm run test`
+
+
+
+# [React Getting started](#react-getting-started)
+
+
+## Installation
+* `npm install` (installing dependencies)
+* `npm outdated` (verifying dependencies)
+
+## Development
+* `npm run start`
+* in your browser go to [http://localhost:3000](http://localhost:3000) 
 
 ## Production 
 * `npm run build`
