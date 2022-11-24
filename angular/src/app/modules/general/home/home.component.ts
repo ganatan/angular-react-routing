@@ -1,24 +1,10 @@
-import { Component, OnInit } from '@angular/core';
-import { Meta } from '@angular/platform-browser';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
   styleUrls: ['./home.component.css']
 })
-export class HomeComponent implements OnInit {
-
-  constructor(private meta: Meta,
-  ) { }
-
-  ngOnInit(): void {
-    this.meta.updateTag(
-      {
-        name: 'description',
-        content: 'This application was developed with Angular version 14.2.6 and bootstrap 5.2.2' +
-          ' It applies Routing, Lazy loading, Server side rendering and Progressive Web App (PWA)'
-      });
-
-  }
+export class HomeComponent {
 
 }

@@ -11,9 +11,7 @@ describe('WebsiteComponent', () => {
       declarations: [ WebsiteComponent ]
     })
     .compileComponents();
-  });
 
-  beforeEach(() => {
     fixture = TestBed.createComponent(WebsiteComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();

@@ -9,6 +9,9 @@ import { LoginComponent } from './modules/general/login/login.component';
 import { SignupComponent } from './modules/general/signup/signup.component';
 import { NotFoundComponent } from './modules/general/not-found/not-found.component';
 import { AppRoutingModule } from './app-routing.module';
+import { MailingComponent } from './modules/general/contact/mailing/mailing.component';
+import { MappingComponent } from './modules/general/contact/mapping/mapping.component';
+import { WebsiteComponent } from './modules/general/contact/website/website.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +21,10 @@ import { AppRoutingModule } from './app-routing.module';
     AboutComponent,
     LoginComponent,
     SignupComponent,
-    NotFoundComponent
+    NotFoundComponent,
+    MailingComponent,
+    MappingComponent,
+    WebsiteComponent
   ],
   imports: [
     BrowserModule,
