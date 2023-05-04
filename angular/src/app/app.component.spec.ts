@@ -3,16 +3,12 @@ import { AppComponent } from './app.component';
 import { RouterTestingModule } from '@angular/router/testing';
 
 describe('AppComponent', () => {
-  beforeEach(async () => {
-    await TestBed.configureTestingModule({
-      imports: [
-        RouterTestingModule
-      ],      
-      declarations: [
-        AppComponent
-      ],
-    }).compileComponents();
-  });
+  beforeEach(() => TestBed.configureTestingModule({
+    imports: [
+      RouterTestingModule
+    ],
+    declarations: [AppComponent]
+  }));
 
   it('should create the app', () => {
     const fixture = TestBed.createComponent(AppComponent);
@@ -31,5 +27,5 @@ describe('AppComponent', () => {
     fixture.detectChanges();
     const compiled = fixture.nativeElement as HTMLElement;
     expect(compiled.querySelector('h1')?.textContent).toContain('angular-routing');
-  });  
+  });
 });
