@@ -14,4 +14,3 @@ export class AppComponent {
   footerUrl = 'https://www.ganatan.com';
   footerLink = 'www.ganatan.com';
 }
-
