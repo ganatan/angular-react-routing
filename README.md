@@ -54,7 +54,7 @@ git clone https://gitlab.com/ganatan/angular-react-routing.git
 
 # change directory
 cd angular-react-routing
-cd angular
+cd frontend-angular
 
 # install the repo with npm
 npm install
@@ -78,7 +78,7 @@ git clone https://gitlab.com/ganatan/angular-react-routing.git
 
 # change directory
 cd angular-react-routing
-cd react
+cd frontend-react
 
 # install the repo with npm
 npm install
