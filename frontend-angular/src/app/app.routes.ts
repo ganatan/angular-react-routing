@@ -1,18 +1,18 @@
 import { Routes } from '@angular/router';
 
-import { HomeComponent } from './pages/general/home/home.component';
-import { LoginComponent } from './pages/general/login/login.component';
-import { SignupComponent } from './pages/general/signup/signup.component';
-import { NotFoundComponent } from './pages/general/not-found/not-found.component';
+import { HomeComponent } from './features/home/home.component';
+import { LoginComponent } from './features/login/login.component';
+import { SignupComponent } from './features/signup/signup.component';
+import { NotFoundComponent } from './features/not-found/not-found.component';
+import { AboutComponent } from './features/about/about.component';
+import { ContactComponent } from './features/contact/contact.component';
 
-import { AboutComponent } from './pages/general/about/about.component';
-import { ExperienceComponent } from './pages/general/about/experience/experience.component';
-import { SkillComponent } from './pages/general/about/skill/skill.component';
+import { ExperienceComponent } from './features/about/experience/experience.component';
+import { SkillComponent } from './features/about/skill/skill.component';
 
-import { ContactComponent } from './pages/general/contact/contact.component';
-import { MailingComponent } from './pages/general/contact/mailing/mailing.component';
-import { MappingComponent } from './pages/general/contact/mapping/mapping.component';
-import { WebsiteComponent } from './pages/general/contact/website/website.component';
+import { MailingComponent } from './features/contact/mailing/mailing.component';
+import { MappingComponent } from './features/contact/mapping/mapping.component';
+import { WebsiteComponent } from './features/contact/website/website.component';
 
 export const routes: Routes = [
   { path: '', component: HomeComponent, },
