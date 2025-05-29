@@ -1,0 +1,30 @@
+<div class="app">
+  <header>
+    <section>
+      <h1>{{ title }}</h1>
+    </section>
+    <nav>
+      <h2>3 Links with Routes</h2>
+      <ul>
+        <li><a routerLink="/">Home</a></li>
+        <li><a routerLink="/login">Login</a></li>
+        <li><a routerLink="/signup">Signup</a></li>
+      </ul>
+      <h3>2 Links with Child Routes</h3>
+      <ul>
+        <li><a routerLink="/about">About</a></li>
+        <li><a routerLink="/contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h4>Routes Result</h4>
+    <router-outlet></router-outlet>
+  </main>
+
+  <footer>
+    <a href="{{ footerUrl }}">{{ footerLink }}</a>
+  </footer>
+
+</div>

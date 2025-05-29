@@ -1,42 +1,42 @@
 import { Routes } from '@angular/router';
 
-import { HomeComponent } from './features/home/home.component';
-import { LoginComponent } from './features/login/login.component';
-import { SignupComponent } from './features/signup/signup.component';
-import { NotFoundComponent } from './features/not-found/not-found.component';
-import { AboutComponent } from './features/about/about.component';
-import { ContactComponent } from './features/contact/contact.component';
+import { Home } from './features/home/home';
+import { Login } from './features/login/login';
+import { Signup } from './features/signup/signup';
+import { NotFound } from './features/not-found/not-found';
+import { About } from './features/about/about';
+import { Contact } from './features/contact/contact';
 
-import { ExperienceComponent } from './features/about/experience/experience.component';
-import { SkillComponent } from './features/about/skill/skill.component';
+import { Experience } from './features/about/experience/experience';
+import { Skill } from './features/about/skill/skill';
 
-import { MailingComponent } from './features/contact/mailing/mailing.component';
-import { MappingComponent } from './features/contact/mapping/mapping.component';
-import { WebsiteComponent } from './features/contact/website/website.component';
+import { Mailing } from './features/contact/mailing/mailing';
+import { Mapping } from './features/contact/mapping/mapping';
+import { Website } from './features/contact/website/website';
 
 export const routes: Routes = [
-  { path: '', component: HomeComponent, },
+  { path: '', component: Home, },
 
-  { path: 'login', component: LoginComponent },
-  { path: 'signup', component: SignupComponent },
+  { path: 'login', component: Login },
+  { path: 'signup', component: Signup },
 
   {
-    path: 'about', component: AboutComponent,
+    path: 'about', component: About,
     children: [
-      { path: '', component: ExperienceComponent },
-      { path: 'experience', component: ExperienceComponent },
-      { path: 'skill', component: SkillComponent },
+      { path: '', component: Experience },
+      { path: 'experience', component: Experience },
+      { path: 'skill', component: Skill },
     ],
   },
   {
-    path: 'contact', component: ContactComponent,
+    path: 'contact', component: Contact,
     children: [
-      { path: '', component: MailingComponent },
-      { path: 'mailing', component: MailingComponent },
-      { path: 'mapping', component: MappingComponent },
-      { path: 'website', component: WebsiteComponent },
+      { path: '', component: Mailing },
+      { path: 'mailing', component: Mailing },
+      { path: 'mapping', component: Mapping },
+      { path: 'website', component: Website },
     ],
   },
 
-  { path: '**', component: NotFoundComponent }
+  { path: '**', component: NotFound }
 ];
