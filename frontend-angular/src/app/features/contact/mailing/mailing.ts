@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-mailing',
   imports: [],
   templateUrl: './mailing.html',
-  styleUrl: './mailing.css'
+  styleUrl: './mailing.css',
 })
 export class Mailing {
 

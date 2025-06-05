@@ -15,7 +15,7 @@ import { Mapping } from './features/contact/mapping/mapping';
 import { Website } from './features/contact/website/website';
 
 export const routes: Routes = [
-  { path: '', component: Home, },
+  { path: '', component: Home },
 
   { path: 'login', component: Login },
   { path: 'signup', component: Signup },
@@ -38,5 +38,5 @@ export const routes: Routes = [
     ],
   },
 
-  { path: '**', component: NotFound }
+  { path: '**', component: NotFound },
 ];

@@ -36,6 +36,8 @@ module.exports = tseslint.config(
           suffixes: ["","Component"] 
         }
       ],
+      "semi": ["error", "always"],
+      "comma-dangle": ["error", "always-multiline"],
       "no-undefined": "error",
       "no-var": "error",
       "prefer-const": "error",

@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-website',
   imports: [],
   templateUrl: './website.html',
-  styleUrl: './website.css'
+  styleUrl: './website.css',
 })
 export class Website {
 

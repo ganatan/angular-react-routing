@@ -13,9 +13,9 @@ describe('About', () => {
       providers: [
         {
           provide: ActivatedRoute,
-          useValue: {}
-        }
-      ]
+          useValue: {},
+        },
+      ],
     }).compileComponents();
 
     fixture = TestBed.createComponent(About);

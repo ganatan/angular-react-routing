@@ -13,11 +13,11 @@ describe('Contact', () => {
       providers: [
         {
           provide: ActivatedRoute,
-          useValue: {}
-        }
-      ]
+          useValue: {},
+        },
+      ],
     })
-    .compileComponents();
+      .compileComponents();
 
     fixture = TestBed.createComponent(Contact);
     component = fixture.componentInstance;

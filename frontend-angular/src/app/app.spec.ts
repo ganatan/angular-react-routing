@@ -9,9 +9,9 @@ describe('App', () => {
       providers: [
         {
           provide: ActivatedRoute,
-          useValue: {}
-        }
-      ]
+          useValue: {},
+        },
+      ],
     }).compileComponents();
   });
 
