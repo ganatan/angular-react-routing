@@ -6,7 +6,7 @@
 ### Developpement
 * `npm run start`
 * in your browser [http://localhost:4200](http://localhost:4200) 
-
+w
 ## Linter
 * `npm run lint`
 
